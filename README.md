@@ -1,4 +1,4 @@
-# Class Project for CS 457: Computer Graphics Shaders
+# Class Project: Computer Graphics Shaders
 ## Glowing Lines
 My goal with this project was to create some animated, glowing lines using OpenGL and GLSL. The effect is created by rendering first to a framebuffer, and then doing some postprocessing effects. I used techniques and some code from [this tutorial about bloom](https://learnopengl.com/Advanced-Lighting/Bloom) as well as [this one about Gaussian blur](https://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/) to complete the project. (Code from these sources is annotated within the project.)
 
